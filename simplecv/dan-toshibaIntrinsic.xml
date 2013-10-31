@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<toshibaIntrinsic type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    8.28407617e+03 0. 3.06973511e+02 0. 8.57655566e+03 2.43316971e+02 0.
+    0. 1.</data></toshibaIntrinsic>
+</opencv_storage>

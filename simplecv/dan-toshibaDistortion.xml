@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<toshibaDistortion type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    -3.79129863e+00 6.78128958e-01 -7.26484582e-02 1.75998911e-01
+    1.06886565e-03</data></toshibaDistortion>
+</opencv_storage>

@@ -1,0 +1,74 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : create robot part.SLDPRT
+Receiving System Product I.D.: create robot part.SLDPRT
+File Name                    : C:\Documents and Settings\Keith Frankie\Desktop\spark\create\create robot part.IGS
+Sending System               : SolidWorks 2008
+Preprocessor Version         : SolidWorks 2008
+File Creation Date           : 080909.114834
+Model Creation Date          : 080909.114834
+Units                        : IN
+Model Space Scale            : 1
+Author                       : Keith Frankie
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+ERROR:   DE#  2135, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2135, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2219, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2219, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2397, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2397, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2529, TYPE   120: Unable to create a surface of revolution.
+ERROR:   DE#  2529, TYPE   120: Unable to create a surface of revolution.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              10
+  Highest number of significant digits:                     14
+  Average number of significant digits:                7.51573
+  Maximum distance to origin:                          19685.2
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            232       232
+102  Composite curve                                240       240
+110  Line                                           338       338
+120  Surface of revolution                           52        52
+124  Transformation matrix                          220       220
+126  Rational B-spline curve                        526       526
+128  Rational B-spline surface                       45        45
+142  Curve on a parametric surface                  120       120
+144  Trimmed parametric surface                      97        93
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     1
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, September 09, 2008 11:48:41
+Finish time: Tuesday, September 09, 2008 11:48:48
+Processing time: 0 days, 00 hours, 00 mins, 07 secs

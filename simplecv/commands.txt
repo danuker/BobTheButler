@@ -1,0 +1,4 @@
+ 
+python calibrate.py --camera 0 --width 9 --height 6 --gridsize 0.022669643 --calibrationfile toshiba
+python calibrate.py --camera 1 --width 9 --height 6 --gridsize 0.022669643 --calibrationfile trusthd
+

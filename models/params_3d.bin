@@ -1,0 +1,102 @@
+include <params_3d_screws_nuts.scad>
+
+tolerance = 0.01;
+
+profile_height = 30;
+
+support_length = 120;
+
+wall_thick_2 = 2;
+wall_thick_3 = 3;
+wall_thick_4 = 4;
+wall_thick_5 = 5;
+
+wrench_radius = 11;
+
+ghidaj_radius = 4;
+ghidaj_radius_12 = 6;
+
+//ghidaj_support_radius = ghidaj_radius + 2 * wall_thick;
+
+pulley_40_radius = 19;
+pulley_40_height = 16;
+
+pulley_30_radius = 14;
+pulley_30_height = 16;
+
+washer_10_height = 2;
+
+bearing_10_internal_radius = 5;
+bearing_10_external_radius = 13;
+bearing_10_height = 8;
+
+
+bearing_8_internal_radius = 4;
+bearing_8_external_radius = 11;
+bearing_8_height = 7;
+
+bearing_6_internal_radius = 3;
+bearing_6_external_radius = 9.5;
+bearing_6_thick = 6;
+bearing_6_height = 6;
+
+
+
+bearing_5_external_radius = 8;
+bearing_5_thick = 5;
+bearing_5_height = 5;
+
+bearing_4_external_radius = 6.5;
+bearing_4_height = 5;
+
+
+bearing_10_support = bearing_10_external_radius + 2 * wall_thick_3;
+
+pulley_40_support_radius = pulley_40_radius + 2 * wall_thick_3;
+pulley_40_support_height = bearing_10_height + pulley_40_height + 2 * washer_10_height ;
+
+distance_from_margin = 6;
+
+canal_diameter = 8.22;
+canal_height = 2.2;
+
+
+lm8uu_external_radius = 7.5;
+lm8uu_height = 24;
+
+lm10uu_external_radius = 9.5;
+lm10uu_height = 29;
+
+lm12uu_external_radius = 10.5;
+lm12uu_height = 30;
+
+linear_bearing_height = 24;
+linear_bearing_radius = 7.5;
+
+nema_17_width = 42.3;
+nema_17_motor_height_sparkfun = 36;
+nema_17_motor_hole_radius_sparkfun  = 14;
+nema_17_motor_hole_radius_camiel  = 12;
+nema_17_dist_between_screw_holes = 31;
+nema_17_height = 47;
+
+mk7_height = 11;
+mk7_radius = 6.25;
+mk7_teeth_radius = 5.36;
+mk7_dist_to_teeth = 11-3.55;
+
+washer_5 = 0.97;
+
+filament_radius = 0.9;
+
+washer_4_12_radius = 6;
+washer_4_12_thick = 1;
+
+washer_4_9_radius = 4.5;
+
+washer_6_thick = 1.5;
+
+roata_cu_dinti_raza_flansa = 11.5;
+
+roata_dintata_t2_5_30_dinti_height = 16;
+roata_dintata_t2_5_30_dinti_raza_flansa = 14;

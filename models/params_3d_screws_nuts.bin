@@ -1,0 +1,36 @@
+m4_screw_radius = 2;
+m4_nut_radius = 4.3;
+m4_nut_height = 5;
+
+m4_simple_nut_height = 3.15;
+m4_simple_nut_radius = 3.95;
+
+m3_screw_radius = 1.5;
+m3_nut_radius = 3.2;
+m3_nut_height = 2.3;
+
+m5_screw_radius = 2.5;
+
+
+m6_screw_radius = 3;
+m6_nut_radius = 5.7;
+m6_nut_thick = 5;
+m6_autoblock_nut_thick = 6;
+
+m10_nut_thick = 10;
+
+m8_screw_head_height = 5.7;
+
+
+m10_long_nut_radius = 9.71;
+m10_long_nut_height = 29.8;
+
+m10_long_thick_nut_radius = 7.41;
+m10_long_thick_nut_height = 30.4;
+
+m12_plastic_nut_radius = 10.45;
+m12_plastic_nut_height = 23.3;
+
+tr12_3_nut_radius = 11;
+tr12_3_nut_height = 18.1;
+
